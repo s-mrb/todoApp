@@ -1,0 +1,2 @@
+acts as interface between client side pages and server side logic
+holds routing controllers

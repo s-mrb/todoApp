@@ -1,0 +1,1 @@
+interface between client events and server services
